@@ -4,7 +4,7 @@ import pickle
 import numpy as np
 import requests
 import pandas as pd
-mport streamlit as st
+import streamlit as st
 st.write(st.secrets)
 
 # OpenWeather function
